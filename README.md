@@ -1,6 +1,6 @@
 # natCorp
 
-National Corporation USA, Saudi Royalist (Winning)
+National Corporations USA, Saudi Royalist (Winning)
 
 https://natcorp.usa.saudiroyalist
 
