@@ -2,16 +2,35 @@
 
 National Corporations USA, Saudi Royalist (Winning)
 
-https://natcorp.usa.saudiroyalist
-
-Check out, HomeDepotRefrigeratorWarrantyExchange.pdf 
-
 Running on partial establishment interest model.
 
 Reporting to full establishment interest - Mohammed Saud, Kingdom of Saudi Arabia.
 
-Check out, files in this folder. (Actively updated)
+at htps://natcorpusasaudiroyalists.media.militia
 
-Also, Check out
+then - Check National Corporations USA (aka Great-America)
 
-https://github.com/irakeshkelm (Actively updated)
+at https://github.com/rakeshkelm/natcorpusasaudiroyalists
+
+then - Check out, HomeDepotRefrigeratorWarrantyExchange.pdf 
+
+continue to
+
+Check out,  Multiple files
+
+at https://github.com/rakeshkelm/natcorpusasaudiroyalists
+
+then - Check out, multiple files in this folder. 
+
+For more details,
+
+Check County and State Governmnent, USA (aka Great-America)
+
+at https://github.com/rakeshkelm/broomeGov
+
+then - Check out, BroomeBoeChurchStateSeparation.jpg
+
+Build and operationalize a planet.
+
+Expand and update Independent interest.
+
