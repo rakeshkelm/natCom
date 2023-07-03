@@ -1,4 +1,4 @@
-# natCorp
+# natCorpUsaSaudiRoyalists
 
 National Corporations USA, Saudi Royalist (Winning)
 
@@ -26,7 +26,7 @@ For more details,
 
 Check Federal Governmnent, USA (aka Great-America)
 
-at https://github.com/rakeshkelm/fedGov
+at https://github.com/rakeshkelm/fedgovusasaudiroyalists
 
 then - Check out, FbiTrespass.mp4
 
