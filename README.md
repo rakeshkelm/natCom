@@ -1,6 +1,6 @@
 # natCorpUsaSaudiRoyalists
 
-National Corporations USA, Saudi Royalist (Winning)
+National Corporations USA (aka United slave america), Saudi Royalist (Winning)
 
 Running on partial establishment interest model.
 
@@ -8,7 +8,7 @@ Reporting to full establishment interest - Mohammed Saud, Kingdom of Saudi Arabi
 
 at htps://natcorpusasaudiroyalists.media.militia
 
-then - Check National Corporations USA (aka Great-America)
+then - Check National Corporations USA (aka United slave america)
 
 at https://github.com/rakeshkelm/natcorpusasaudiroyalists
 
@@ -24,7 +24,7 @@ then - Check out, multiple files in this folder.
 
 For more details,
 
-Check Federal Governmnent, USA (aka Great-America)
+Check Federal Governmnent, USA (aka United slave america)
 
 at https://github.com/rakeshkelm/fedgovusasaudiroyalists
 
