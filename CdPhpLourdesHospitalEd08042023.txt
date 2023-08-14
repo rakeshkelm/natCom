@@ -1,4 +1,4 @@
-﻿Lourdes Hospital - Emergency department, 08042023
+﻿Lourdes Hospital - Emergency department, 08042023 (aka nada 50 point inspection)
 
 
 web: healthcare.ascension.org
@@ -6,6 +6,28 @@ Lourdes Hospital
 169 Riverside Dr,
 Binghamton, NY 13905
 (607) 798-5111
+
+
+081323
+ Lourdes PT - Check in
+[
+Lourdes physical therapy - Pennsylvania Avenue
+gave information
+request emergency physical therapy exam
+gives information
+service unavailable
+]
+
+
+081223
+Kathy - Check in
+[
+Lourdes Opthalmology (aka Eye contact by kathy) - Endicott
+gave information
+request emergency eye exam
+gives information
+service unavailable
+]
 
 
 081023
@@ -31,6 +53,20 @@ service unavailable
 
 
 080823
+Christina Costley - Financial counselor
+[
+Lourdes main hospital - Riverside drive
+gave information
+Request drop off PFAP application
+Request care counselor assistance for Robert VanGorder appointment follow up
+Request care counselor assistance for Brittany Taylor compatibility and conflict of interest check's
+Request technology counselor assistance for MD, PA, Tech. lookup on lourdes website
+gives information
+Accepts PFAP application
+]
+
+
+080823
 Brittany Taylor, MD - Check in
 [
 Lourdes primary care - Robinson Street
@@ -39,20 +75,6 @@ Request Proper white doctor, wheelchair and knee strap
 gives information
 Brittany Taylor - appt on 081623 at 2 PM
 Knee strap
-]
-
-
-080823
-Christina Costley - Financial counselor
-[
-Lourdes main hospital - Riverside drive
-gave information
-Request drop off PFAP application
-Request care counselor assistance for Robert VanGorder appointment follow up
-Request care counselor assistance for Brittany Taylor compatibility and conflict of interest check's
-Request technology counselor assistance for MD, PA lookup on lourdes website
-gives information
-Accepts PFAP application
 ]
 
 
